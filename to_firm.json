@@ -1,0 +1,13 @@
+{
+    "start_toggle_status": true,
+    "emergency_stop_status": false,
+    "nitros_on_status": false,
+    "crawl_on_status": false,
+    "threshold_value": 500,
+    "manual_toggle_status": false,
+    "duty_cycle_slider_value": 0,
+    "w_status": false,
+    "a_status": false,
+    "s_status": false,
+    "d_status": false
+}

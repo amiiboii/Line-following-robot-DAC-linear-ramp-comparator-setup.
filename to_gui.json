@@ -1,0 +1,1 @@
+{"serial_port": "/dev/tty.usbserial-1120", "baud_rate": 9600, "connected": true, "left_value": 966, "right_value": 981, "left_color": "black", "right_color": "black", "command_sent": "out", "dac1_value": 5, "dac2_value": 3}
